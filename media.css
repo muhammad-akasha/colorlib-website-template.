@@ -1,0 +1,277 @@
+
+@media only screen and (max-width: 576px) {
+    .coupleimage {
+      height: fit-content;
+    }
+    .couple-parent {
+      flex-direction: column;padding-top: 165px;padding-bottom: 70px
+    }
+    .coupleimage-content {
+      width: 100%;
+    }
+    .playcircle{
+        margin-top: 50px
+    }
+    .allbtn {
+      width: 100%;margin-top: 20px
+    }
+    .sec-2 {
+      width: 100%;flex-direction: column;margin-top: 0px
+  }
+  .section-2{
+      flex-wrap: wrap
+  }
+  .sec-4-box{
+      width: 100%;
+      margin: 20px auto
+  }
+  .section-7-parent{
+      flex-wrap: wrap
+  }
+  .friend-circle-image{
+      margin-top: 55px
+  }
+  .cardparent{
+      flex-wrap: wrap
+  }
+  .first-input {
+      width: 100%;
+      flex-wrap: wrap;
+      flex-direction: column
+  }
+  .first-input input{
+      width:100%
+  }
+  .section-overlay{
+      padding: 20px 20px
+  }
+  .second-input{
+      width: 100%
+  }
+  .third-input{
+      width: 100%
+  }
+  .second-input select{
+      width: 100%
+  }
+  .third-input textarea{
+      width: 100%
+  }
+  .button3{
+      width: 100%
+  }
+  .section-7{
+      width: 100%
+  }
+  .section7-images{
+      width: 100%
+  }
+  footer{
+      padding: 50px 50px
+  }
+  .foot1{
+      text-align: center;
+  }
+  .foot2{
+      text-align: center;margin-top: 40px
+  }
+  .foot3{
+      text-align: center;margin-top: 40px
+  }
+  .foot4{
+      text-align: center;margin-top: 40px
+  }
+  .foot5{
+      text-align: center;margin-top: 40px
+  }
+  .foot2p{
+      text-align: center
+  }
+  }
+  @media only screen and (max-width: 786px) {
+    .coupleimage {
+      height: fit-content;
+    }
+    .couple-parent {
+      flex-direction: column;padding-top: 165px;padding-bottom: 70px
+    }
+    .coupleimage-content {
+      width: 100%;
+    }
+    .playcircle{
+        margin-top: 50px
+    }
+    .allbtn {
+      width: 100%;margin-top: 20px
+    }
+    .sec-2 {
+      width: 100%;flex-direction: column;margin-top: 0px
+  }
+  .section-2{
+      flex-wrap: wrap
+  }
+  .sec-4-box{
+    width: 100%;
+    margin: 20px auto
+}
+  .section-7-parent{
+      flex-wrap: wrap
+  }
+  .friend-circle-image{
+      margin-top: 55px
+  }
+  .cardparent{
+      flex-wrap: wrap
+  }
+  .card-box1{
+    margin: 20px auto;
+  }
+  .first-input {
+      width: 100%;
+      flex-wrap: wrap;
+      flex-direction: column
+  }
+  .first-input input{
+      width:100%
+  }
+  .section-overlay{
+      padding: 20px 20px
+  }
+  .second-input{
+      width: 100%
+  }
+  .third-input{
+      width: 100%
+  }
+  .second-input select{
+      width: 100%
+  }
+  .third-input textarea{
+      width: 100%
+  }
+  .button3{
+      width: 100%
+  }
+  .section-7{
+      width: 100%
+  }
+  .section7-images{
+      width: 100%
+  }
+  footer{
+      padding: 50px 50px
+  }
+  .foot1{
+      text-align: center;
+  }
+  .foot2{
+      text-align: center;margin-top: 40px
+  }
+  .foot3{
+      text-align: center;margin-top: 40px
+  }
+  .foot4{
+      text-align: center;margin-top: 40px
+  }
+  .foot5{
+      text-align: center;margin-top: 40px
+  }
+  .foot2p{
+      text-align: center
+  }
+  }
+  @media only screen and (max-width: 1200px) {
+    .coupleimage {
+      height: fit-content;
+    }
+    .couple-parent {
+      flex-direction: column;padding-top: 165px;padding-bottom: 70px
+    }
+    .coupleimage-content {
+      width: 100%;
+    }
+    .playcircle{
+        margin-top: 50px
+    }
+    .allbtn {
+      width: 100%;margin-top: 20px
+    }
+    .sec-2 {
+      width: 100%;flex-direction: column;margin-top: 0px
+  }
+  .section-2{
+      flex-wrap: wrap
+  }
+  .sec-4-box{
+    width: 100%;
+    margin: 20px auto
+}
+  .section-7-parent{
+      flex-wrap: wrap
+  }
+  .friend-circle-image{
+      margin-top: 55px
+  }
+  .cardparent{
+      flex-wrap: wrap
+  }
+  .card-box1{
+    margin: 20px auto;
+  }
+  .first-input {
+      width: 100%;
+      flex-wrap: wrap;
+      flex-direction: column
+  }
+  .first-input input{
+      width:100%
+  }
+  .section-overlay{
+      padding: 20px 20px
+  }
+  .second-input{
+      width: 100%
+  }
+  .third-input{
+      width: 100%
+  }
+  .second-input select{
+      width: 100%
+  }
+  .third-input textarea{
+      width: 100%
+  }
+  .button3{
+      width: 100%
+  }
+  .section-7{
+      width: 100%
+  }
+  .section7-images{
+      width: 100%
+  }
+  footer{
+      padding: 50px 50px
+  }
+  .foot1{
+      text-align: center;
+  }
+  .foot2{
+      text-align: center;margin-top: 40px
+  }
+  .foot3{
+      text-align: center;margin-top: 40px
+  }
+  .foot4{
+      text-align: center;margin-top: 40px
+  }
+  .foot5{
+      text-align: center;margin-top: 40px
+  }
+  .foot2p{
+      text-align: center
+  }
+  .allicons{
+    justify-content: center
+  }
+  }
