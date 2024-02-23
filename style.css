@@ -86,7 +86,6 @@
   padding: 15px 0px;
   position: fixed;
   width: 100%;
-  transition: all 1s ease-in;
   z-index: 2;
 }
 
@@ -131,7 +130,7 @@
 .coupleimage-content {
   width: 50%;
   color: #ffffff;
-  transition: all 3s ease-in;
+  
 }
 
 .fa-circle-play {
@@ -241,7 +240,7 @@
   justify-content: center;
   gap: 50px;
   margin-top: 40px;
-  transition: all 1s ease-in;
+  
 }
 .first-box {
   width: 320px;
@@ -274,7 +273,7 @@
   margin-top: 50px;
 }
 .sec-3-content {
-  padding: 40px 30px; transition: all 1s ease-in;
+  padding: 40px 30px;
 }
 .section-3 h4 {
   color: #589167;
@@ -382,7 +381,7 @@
 .section-overlay {
   padding: 100px 0px;
   position: relative;
-  transition: all 1s ease-in;
+  
 }
 .section-overlay h2 {
   color: #ffffff;
@@ -464,7 +463,7 @@ footer{
   color: rgba(255, 255, 255, 0.9);padding: 100px 50px;margin-top: 80px;
 }
 .footicon{
-  width: 40px;height: 40px;border-radius: 50%;background: #589167;display: flex;justify-content: center;align-items: center; transition: all 3s ease-in;
+  width: 40px;height: 40px;border-radius: 50%;background: #589167;display: flex;justify-content: center;align-items: center;
 }
 .footer a{
   display: block;text-decoration: none; color: rgba(255, 255, 255, 0.9);line-height: 35px;font-weight: 400

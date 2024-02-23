@@ -185,7 +185,7 @@
       height: fit-content;
     }
     .couple-parent {
-      flex-direction: column;padding-top: 165px;padding-bottom: 70px
+      padding-top: 165px;padding-bottom: 70px
     }
     .coupleimage-content {
       width: 100%;
@@ -197,7 +197,7 @@
       width: 100%;margin-top: 20px
     }
     .sec-2 {
-      width: 100%;flex-direction: column;margin-top: 0px
+      width: 100%;margin-top: 0px
   }
   .section-2{
       flex-wrap: wrap
